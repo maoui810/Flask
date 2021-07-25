@@ -1,3 +1,3 @@
 ### Flask API build Start
-#### starting point
+#### starting point for project
 ![starting point](img/1.PNG)
